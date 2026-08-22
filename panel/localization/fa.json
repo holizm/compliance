@@ -1,0 +1,21 @@
+{
+    "complianceAssessmentDate": "تاریخ ارزیابی",
+    "complianceAssessments": "ارزیابی‌ها",
+    "complianceAuthority": "مرجع",
+    "complianceCode": "کد",
+    "complianceCompliance": "انطباق",
+    "complianceDescription": "توضیحات",
+    "complianceDetectedDate": "تاریخ شناسایی",
+    "complianceEffectiveDate": "تاریخ اجرا",
+    "complianceExpiryDate": "تاریخ انقضا",
+    "complianceFindings": "یافته‌ها",
+    "complianceNumber": "شماره",
+    "complianceRequirement": "الزام",
+    "complianceRequirements": "الزامات",
+    "complianceReviewIntervalDays": "فاصله بازبینی به روز",
+    "complianceScope": "دامنه",
+    "complianceSeverity": "شدت",
+    "complianceStatus": "وضعیت",
+    "complianceSubject": "موضوع",
+    "complianceViolations": "تخلفات"
+}

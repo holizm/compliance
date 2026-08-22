@@ -1,0 +1,65 @@
+complianceStatus options
+    pending
+    compliant
+    nonCompliant
+    expired
+    waived
+complianceSeverity options
+    low
+    medium
+    high
+    critical
+correctiveActionStatus options
+    open
+    inProgress
+    completed
+    verified
+    cancelled
+complianceRequirement
+    title
+    code
+    authority optional
+    scope
+    effectiveDate optional
+    expiryDate optional
+    reviewIntervalDays integer optional
+    description optional
+    unique code
+complianceAssessment
+    complianceRequirement
+    subject
+    assessmentDate
+    assessor optional
+    complianceStatus
+    nextReviewDate optional
+    findings optional
+complianceEvidence
+    complianceAssessment
+    evidence
+    evidenceDate
+    description optional
+complianceCertification
+    title
+    subject
+    issuer
+    certificateNumber optional
+    issuedDate
+    expiryDate optional
+    complianceStatus
+complianceViolation
+    number
+    complianceRequirement
+    subject
+    detectedDate
+    complianceSeverity
+    description
+    resolvedDate optional
+    unique number
+correctiveAction
+    complianceViolation
+    title
+    responsiblePerson optional
+    dueDate optional
+    correctiveActionStatus
+    completedDate optional
+    description optional
