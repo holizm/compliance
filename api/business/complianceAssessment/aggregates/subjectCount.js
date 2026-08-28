@@ -1,0 +1,4 @@
+[
+    { $match: { subject } },
+    { $count: 'count' },
+]

@@ -1,0 +1,4 @@
+[
+    { $match: { correctiveActionStatus } },
+    { $count: 'count' },
+]

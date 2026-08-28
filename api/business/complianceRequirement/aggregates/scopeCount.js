@@ -1,0 +1,4 @@
+[
+    { $match: { scope } },
+    { $count: 'count' },
+]

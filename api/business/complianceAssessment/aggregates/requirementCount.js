@@ -1,0 +1,4 @@
+[
+    { $match: { complianceRequirement } },
+    { $count: 'count' },
+]
