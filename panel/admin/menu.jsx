@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'verifiedUser',
+        path: '/compliance',
         title: 'complianceCompliance',
     },
 ]
