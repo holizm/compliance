@@ -1,0 +1,29 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "assessmentDate": "تاریخ ارزیابی",
+        "assessments": "ارزیابی‌ها",
+        "authority": "مرجع",
+        "code": "کد",
+        "compliance": "انطباق",
+        "description": "توضیحات",
+        "detectedDate": "تاریخ شناسایی",
+        "effectiveDate": "تاریخ اجرا",
+        "expiryDate": "تاریخ انقضا",
+        "findings": "یافته‌ها",
+        "number": "شماره",
+        "requirement": "الزام",
+        "requirements": "الزامات",
+        "reviewIntervalDays": "فاصله بازبینی به روز",
+        "scope": "دامنه",
+        "severity": "شدت",
+        "status": "وضعیت",
+        "subject": "موضوع",
+        "violations": "تخلفات"
+    },
+    "site": {
+        "status": "وضعیت انطباق",
+        "verified": "تأییدشده"
+    }
+}
