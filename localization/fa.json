@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "assessmentDate": "تاریخ ارزیابی",
         "assessments": "ارزیابی‌ها",
         "authority": "مرجع",
@@ -18,12 +16,9 @@
         "reviewIntervalDays": "فاصله بازبینی به روز",
         "scope": "دامنه",
         "severity": "شدت",
-        "status": "وضعیت",
-        "subject": "موضوع",
-        "violations": "تخلفات"
-    },
-    "site": {
         "status": "وضعیت انطباق",
+        "subject": "موضوع",
+        "violations": "تخلفات",
         "verified": "تأییدشده"
     }
 }
