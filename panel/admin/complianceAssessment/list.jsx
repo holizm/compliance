@@ -8,7 +8,7 @@ const headers = <>
     <th start>complianceRequirement</th>
     <th>complianceSubject</th>
     <th>complianceAssessmentDate</th>
-    <th>complianceStatus</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>

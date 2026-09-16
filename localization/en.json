@@ -12,7 +12,6 @@
         "requirements": "Requirements",
         "reviewIntervalDays": "Review interval in days",
         "severity": "Severity",
-        "status": "Compliance status",
         "subject": "Subject",
         "violations": "Violations"
     }

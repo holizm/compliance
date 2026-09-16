@@ -30,7 +30,7 @@ const inputs = <>
             'expired',
             'waived',
         ]}
-        placeholder='complianceStatus'
+        placeholder='stateMachinesState'
         property='complianceStatus'
         required
     />
