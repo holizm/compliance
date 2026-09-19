@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "วันที่ประเมิน",
+        "assessments": "การประเมิน",
+        "authority": "หน่วยงานกำกับดูแล",
+        "compliance": "การปฏิบัติตามข้อกำหนด",
+        "detectedDate": "วันที่ตรวจพบ",
+        "effectiveDate": "วันที่มีผลบังคับใช้",
+        "expiryDate": "วันที่หมดอายุ",
+        "findings": "ข้อค้นพบ",
+        "requirement": "ข้อกำหนด",
+        "requirements": "ข้อกำหนด",
+        "reviewIntervalDays": "รอบการทบทวนเป็นวัน",
+        "severity": "ระดับความรุนแรง",
+        "subject": "เรื่อง",
+        "violations": "การละเมิด"
+    }
+}

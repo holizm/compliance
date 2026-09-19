@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "மதிப்பீட்டுத் தேதி",
+        "assessments": "மதிப்பீடுகள்",
+        "authority": "அதிகார அமைப்பு",
+        "compliance": "இணக்கம்",
+        "detectedDate": "கண்டறிந்த தேதி",
+        "effectiveDate": "நடைமுறைத் தேதி",
+        "expiryDate": "காலாவதி தேதி",
+        "findings": "கண்டறிவுகள்",
+        "requirement": "தேவை",
+        "requirements": "தேவைகள்",
+        "reviewIntervalDays": "மறுஆய்வு இடைவெளி நாட்களில்",
+        "severity": "தீவிரம்",
+        "subject": "பொருள்",
+        "violations": "மீறல்கள்"
+    }
+}

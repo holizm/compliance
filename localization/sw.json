@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Tarehe ya tathmini",
+        "assessments": "Tathmini",
+        "authority": "Mamlaka",
+        "compliance": "Uzingatiaji",
+        "detectedDate": "Tarehe ya kugunduliwa",
+        "effectiveDate": "Tarehe ya kuanza kutumika",
+        "expiryDate": "Tarehe ya mwisho",
+        "findings": "Matokeo",
+        "requirement": "Sharti",
+        "requirements": "Masharti",
+        "reviewIntervalDays": "Muda wa mapitio kwa siku",
+        "severity": "Ukali",
+        "subject": "Mada",
+        "violations": "Ukiukaji"
+    }
+}

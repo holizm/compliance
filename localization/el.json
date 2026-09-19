@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Ημερομηνία αξιολόγησης",
+        "assessments": "Αξιολογήσεις",
+        "authority": "Αρμόδια αρχή",
+        "compliance": "Συμμόρφωση",
+        "detectedDate": "Ημερομηνία εντοπισμού",
+        "effectiveDate": "Ημερομηνία έναρξης ισχύος",
+        "expiryDate": "Ημερομηνία λήξης",
+        "findings": "Ευρήματα",
+        "requirement": "Απαίτηση",
+        "requirements": "Απαιτήσεις",
+        "reviewIntervalDays": "Διάστημα επανεξέτασης σε ημέρες",
+        "severity": "Σοβαρότητα",
+        "subject": "Αντικείμενο",
+        "violations": "Παραβάσεις"
+    }
+}

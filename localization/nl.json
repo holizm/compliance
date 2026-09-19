@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Beoordelingsdatum",
+        "assessments": "Beoordelingen",
+        "authority": "Autoriteit",
+        "compliance": "Naleving",
+        "detectedDate": "Detectiedatum",
+        "effectiveDate": "Ingangsdatum",
+        "expiryDate": "Vervaldatum",
+        "findings": "Bevindingen",
+        "requirement": "Vereiste",
+        "requirements": "Vereisten",
+        "reviewIntervalDays": "Beoordelingsinterval in dagen",
+        "severity": "Ernst",
+        "subject": "Onderwerp",
+        "violations": "Overtredingen"
+    }
+}

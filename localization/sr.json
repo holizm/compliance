@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Датум процене",
+        "assessments": "Процене",
+        "authority": "Надлежни орган",
+        "compliance": "Усклађеност",
+        "detectedDate": "Датум откривања",
+        "effectiveDate": "Датум ступања на снагу",
+        "expiryDate": "Датум истека",
+        "findings": "Налази",
+        "requirement": "Захтев",
+        "requirements": "Захтеви",
+        "reviewIntervalDays": "Интервал прегледа у данима",
+        "severity": "Озбиљност",
+        "subject": "Предмет",
+        "violations": "Кршења"
+    }
+}

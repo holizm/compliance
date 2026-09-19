@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Ranar tantancewa",
+        "assessments": "Tantancewa",
+        "authority": "Hukuma",
+        "compliance": "Bin ƙa’ida",
+        "detectedDate": "Ranar ganowa",
+        "effectiveDate": "Ranar fara aiki",
+        "expiryDate": "Ranar ƙarewa",
+        "findings": "Abubuwan da aka gano",
+        "requirement": "Buƙata",
+        "requirements": "Buƙatu",
+        "reviewIntervalDays": "Tazarar bita a kwanaki",
+        "severity": "Tsanani",
+        "subject": "Batun",
+        "violations": "Keta dokoki"
+    }
+}

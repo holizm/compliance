@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Bewertungsdatum",
+        "assessments": "Bewertungen",
+        "authority": "Behörde",
+        "compliance": "Compliance",
+        "detectedDate": "Feststellungsdatum",
+        "effectiveDate": "Gültigkeitsdatum",
+        "expiryDate": "Ablaufdatum",
+        "findings": "Feststellungen",
+        "requirement": "Anforderung",
+        "requirements": "Anforderungen",
+        "reviewIntervalDays": "Prüfintervall in Tagen",
+        "severity": "Schweregrad",
+        "subject": "Gegenstand",
+        "violations": "Verstöße"
+    }
+}

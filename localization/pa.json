@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "ਮੁਲਾਂਕਣ ਦੀ ਮਿਤੀ",
+        "assessments": "ਮੁਲਾਂਕਣ",
+        "authority": "ਅਥਾਰਟੀ",
+        "compliance": "ਪਾਲਣਾ",
+        "detectedDate": "ਪਤਾ ਲੱਗਣ ਦੀ ਮਿਤੀ",
+        "effectiveDate": "ਲਾਗੂ ਹੋਣ ਦੀ ਮਿਤੀ",
+        "expiryDate": "ਮਿਆਦ ਪੁੱਗਣ ਦੀ ਮਿਤੀ",
+        "findings": "ਖੋਜਾਂ",
+        "requirement": "ਲੋੜ",
+        "requirements": "ਲੋੜਾਂ",
+        "reviewIntervalDays": "ਸਮੀਖਿਆ ਅੰਤਰਾਲ ਦਿਨਾਂ ਵਿੱਚ",
+        "severity": "ਗੰਭੀਰਤਾ",
+        "subject": "ਵਿਸ਼ਾ",
+        "violations": "ਉਲੰਘਣਾਵਾਂ"
+    }
+}

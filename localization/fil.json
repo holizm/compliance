@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Petsa ng pagtatasa",
+        "assessments": "Mga pagtatasa",
+        "authority": "Awtoridad",
+        "compliance": "Pagsunod",
+        "detectedDate": "Petsa ng pagkakatuklas",
+        "effectiveDate": "Petsa ng bisa",
+        "expiryDate": "Petsa ng pag-expire",
+        "findings": "Mga natuklasan",
+        "requirement": "Kinakailangan",
+        "requirements": "Mga kinakailangan",
+        "reviewIntervalDays": "Agwat ng pagsusuri sa araw",
+        "severity": "Tindi",
+        "subject": "Paksa",
+        "violations": "Mga paglabag"
+    }
+}

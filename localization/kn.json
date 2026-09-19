@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "ಮೌಲ್ಯಮಾಪನ ದಿನಾಂಕ",
+        "assessments": "ಮೌಲ್ಯಮಾಪನಗಳು",
+        "authority": "ಪ್ರಾಧಿಕಾರ",
+        "compliance": "ಅನುಸರಣೆ",
+        "detectedDate": "ಪತ್ತೆಯಾದ ದಿನಾಂಕ",
+        "effectiveDate": "ಜಾರಿಗೆ ಬರುವ ದಿನಾಂಕ",
+        "expiryDate": "ಮುಕ್ತಾಯ ದಿನಾಂಕ",
+        "findings": "ಕಂಡುಬಂದ ಅಂಶಗಳು",
+        "requirement": "ಅವಶ್ಯಕತೆ",
+        "requirements": "ಅವಶ್ಯಕತೆಗಳು",
+        "reviewIntervalDays": "ಪರಿಶೀಲನೆ ಅಂತರ ದಿನಗಳಲ್ಲಿ",
+        "severity": "ತೀವ್ರತೆ",
+        "subject": "ವಿಷಯ",
+        "violations": "ಉಲ್ಲಂಘನೆಗಳು"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Datum posouzení",
+        "assessments": "Posouzení",
+        "authority": "Úřad",
+        "compliance": "Soulad",
+        "detectedDate": "Datum zjištění",
+        "effectiveDate": "Datum účinnosti",
+        "expiryDate": "Datum vypršení",
+        "findings": "Zjištění",
+        "requirement": "Požadavek",
+        "requirements": "Požadavky",
+        "reviewIntervalDays": "Interval kontroly ve dnech",
+        "severity": "Závažnost",
+        "subject": "Předmět",
+        "violations": "Porušení"
+    }
+}

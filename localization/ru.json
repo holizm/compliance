@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Дата оценки",
+        "assessments": "Оценки",
+        "authority": "Регулирующий орган",
+        "compliance": "Соответствие требованиям",
+        "detectedDate": "Дата обнаружения",
+        "effectiveDate": "Дата вступления в силу",
+        "expiryDate": "Дата истечения",
+        "findings": "Выявленные факты",
+        "requirement": "Требование",
+        "requirements": "Требования",
+        "reviewIntervalDays": "Интервал проверки в днях",
+        "severity": "Степень тяжести",
+        "subject": "Предмет",
+        "violations": "Нарушения"
+    }
+}

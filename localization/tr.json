@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Değerlendirme tarihi",
+        "assessments": "Değerlendirmeler",
+        "authority": "Yetkili makam",
+        "compliance": "Uyumluluk",
+        "detectedDate": "Tespit tarihi",
+        "effectiveDate": "Yürürlük tarihi",
+        "expiryDate": "Geçerlilik bitiş tarihi",
+        "findings": "Bulgular",
+        "requirement": "Gereklilik",
+        "requirements": "Gereklilikler",
+        "reviewIntervalDays": "İnceleme aralığı (gün)",
+        "severity": "Önem derecesi",
+        "subject": "Konu",
+        "violations": "İhlaller"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "評価日",
+        "assessments": "評価",
+        "authority": "所管機関",
+        "compliance": "コンプライアンス",
+        "detectedDate": "検出日",
+        "effectiveDate": "発効日",
+        "expiryDate": "有効期限",
+        "findings": "指摘事項",
+        "requirement": "要件",
+        "requirements": "要件",
+        "reviewIntervalDays": "レビュー間隔（日）",
+        "severity": "重大度",
+        "subject": "対象",
+        "violations": "違反"
+    }
+}

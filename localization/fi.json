@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Arviointipäivä",
+        "assessments": "Arvioinnit",
+        "authority": "Viranomainen",
+        "compliance": "Vaatimustenmukaisuus",
+        "detectedDate": "Havaitsemispäivä",
+        "effectiveDate": "Voimaantulopäivä",
+        "expiryDate": "Vanhentumispäivä",
+        "findings": "Havainnot",
+        "requirement": "Vaatimus",
+        "requirements": "Vaatimukset",
+        "reviewIntervalDays": "Tarkistusväli päivinä",
+        "severity": "Vakavuus",
+        "subject": "Kohde",
+        "violations": "Rikkomukset"
+    }
+}

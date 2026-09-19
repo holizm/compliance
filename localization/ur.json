@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "جائزے کی تاریخ",
+        "assessments": "جائزے",
+        "authority": "مجاز ادارہ",
+        "compliance": "تعمیل",
+        "detectedDate": "شناخت کی تاریخ",
+        "effectiveDate": "نفاذ کی تاریخ",
+        "expiryDate": "اختتامی تاریخ",
+        "findings": "نتائج",
+        "requirement": "تقاضا",
+        "requirements": "تقاضے",
+        "reviewIntervalDays": "جائزے کا وقفہ دنوں میں",
+        "severity": "شدت",
+        "subject": "موضوع",
+        "violations": "خلاف ورزیاں"
+    }
+}

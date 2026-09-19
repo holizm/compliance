@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Дата на оценката",
+        "assessments": "Оценки",
+        "authority": "Компетентен орган",
+        "compliance": "Съответствие",
+        "detectedDate": "Дата на откриване",
+        "effectiveDate": "Дата на влизане в сила",
+        "expiryDate": "Дата на изтичане",
+        "findings": "Констатации",
+        "requirement": "Изискване",
+        "requirements": "Изисквания",
+        "reviewIntervalDays": "Интервал за преглед в дни",
+        "severity": "Тежест",
+        "subject": "Предмет",
+        "violations": "Нарушения"
+    }
+}

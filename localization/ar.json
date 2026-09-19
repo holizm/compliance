@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "تاريخ التقييم",
+        "assessments": "التقييمات",
+        "authority": "الجهة المختصة",
+        "compliance": "الامتثال",
+        "detectedDate": "تاريخ الاكتشاف",
+        "effectiveDate": "تاريخ السريان",
+        "expiryDate": "تاريخ الانتهاء",
+        "findings": "النتائج",
+        "requirement": "متطلب",
+        "requirements": "المتطلبات",
+        "reviewIntervalDays": "فترة المراجعة بالأيام",
+        "severity": "الخطورة",
+        "subject": "الموضوع",
+        "violations": "المخالفات"
+    }
+}

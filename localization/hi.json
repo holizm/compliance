@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "आकलन तिथि",
+        "assessments": "आकलन",
+        "authority": "प्राधिकरण",
+        "compliance": "अनुपालन",
+        "detectedDate": "पता चलने की तिथि",
+        "effectiveDate": "प्रभावी तिथि",
+        "expiryDate": "समाप्ति तिथि",
+        "findings": "निष्कर्ष",
+        "requirement": "आवश्यकता",
+        "requirements": "आवश्यकताएँ",
+        "reviewIntervalDays": "समीक्षा अंतराल दिनों में",
+        "severity": "गंभीरता",
+        "subject": "विषय",
+        "violations": "उल्लंघन"
+    }
+}

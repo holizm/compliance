@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Дата оцінювання",
+        "assessments": "Оцінювання",
+        "authority": "Компетентний орган",
+        "compliance": "Відповідність",
+        "detectedDate": "Дата виявлення",
+        "effectiveDate": "Дата набрання чинності",
+        "expiryDate": "Дата закінчення",
+        "findings": "Висновки",
+        "requirement": "Вимога",
+        "requirements": "Вимоги",
+        "reviewIntervalDays": "Інтервал перегляду в днях",
+        "severity": "Серйозність",
+        "subject": "Предмет",
+        "violations": "Порушення"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Ọjọ́ ìṣàyẹ̀wò",
+        "assessments": "Àwọn ìṣàyẹ̀wò",
+        "authority": "Aláṣẹ",
+        "compliance": "Ìbámu",
+        "detectedDate": "Ọjọ́ ìṣàwárí",
+        "effectiveDate": "Ọjọ́ ìbẹ̀rẹ̀ ìṣiṣẹ́",
+        "expiryDate": "Ọjọ́ ìparí",
+        "findings": "Àwọn àbájáde",
+        "requirement": "Ohun tí a béèrè",
+        "requirements": "Àwọn ohun tí a béèrè",
+        "reviewIntervalDays": "Àárín àkókò àyẹ̀wò ní ọjọ́",
+        "severity": "Ìwúwo",
+        "subject": "Kókó",
+        "violations": "Àwọn ìrúfin"
+    }
+}

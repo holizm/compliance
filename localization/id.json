@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Tanggal penilaian",
+        "assessments": "Penilaian",
+        "authority": "Otoritas",
+        "compliance": "Kepatuhan",
+        "detectedDate": "Tanggal terdeteksi",
+        "effectiveDate": "Tanggal berlaku",
+        "expiryDate": "Tanggal kedaluwarsa",
+        "findings": "Temuan",
+        "requirement": "Persyaratan",
+        "requirements": "Persyaratan",
+        "reviewIntervalDays": "Interval tinjauan dalam hari",
+        "severity": "Tingkat keparahan",
+        "subject": "Subjek",
+        "violations": "Pelanggaran"
+    }
+}

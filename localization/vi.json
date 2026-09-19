@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Ngày đánh giá",
+        "assessments": "Các đánh giá",
+        "authority": "Cơ quan có thẩm quyền",
+        "compliance": "Tuân thủ",
+        "detectedDate": "Ngày phát hiện",
+        "effectiveDate": "Ngày có hiệu lực",
+        "expiryDate": "Ngày hết hạn",
+        "findings": "Các phát hiện",
+        "requirement": "Yêu cầu",
+        "requirements": "Các yêu cầu",
+        "reviewIntervalDays": "Khoảng thời gian rà soát tính bằng ngày",
+        "severity": "Mức độ nghiêm trọng",
+        "subject": "Đối tượng",
+        "violations": "Vi phạm"
+    }
+}

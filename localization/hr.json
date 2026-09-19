@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Datum procjene",
+        "assessments": "Procjene",
+        "authority": "Nadležno tijelo",
+        "compliance": "Usklađenost",
+        "detectedDate": "Datum otkrivanja",
+        "effectiveDate": "Datum stupanja na snagu",
+        "expiryDate": "Datum isteka",
+        "findings": "Nalazi",
+        "requirement": "Zahtjev",
+        "requirements": "Zahtjevi",
+        "reviewIntervalDays": "Interval pregleda u danima",
+        "severity": "Ozbiljnost",
+        "subject": "Predmet",
+        "violations": "Kršenja"
+    }
+}

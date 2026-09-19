@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "మూల్యాంకన తేదీ",
+        "assessments": "మూల్యాంకనాలు",
+        "authority": "ప్రాధికార సంస్థ",
+        "compliance": "అనుసరణ",
+        "detectedDate": "గుర్తించిన తేదీ",
+        "effectiveDate": "అమలు తేదీ",
+        "expiryDate": "గడువు తేదీ",
+        "findings": "కనుగొన్న అంశాలు",
+        "requirement": "అవసరం",
+        "requirements": "అవసరాలు",
+        "reviewIntervalDays": "సమీక్ష విరామం రోజుల్లో",
+        "severity": "తీవ్రత",
+        "subject": "విషయం",
+        "violations": "ఉల్లంఘనలు"
+    }
+}

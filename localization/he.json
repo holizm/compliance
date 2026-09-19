@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "תאריך הערכה",
+        "assessments": "הערכות",
+        "authority": "רשות",
+        "compliance": "ציות",
+        "detectedDate": "תאריך גילוי",
+        "effectiveDate": "תאריך תחילה",
+        "expiryDate": "תאריך תפוגה",
+        "findings": "ממצאים",
+        "requirement": "דרישה",
+        "requirements": "דרישות",
+        "reviewIntervalDays": "מרווח סקירה בימים",
+        "severity": "חומרה",
+        "subject": "נושא",
+        "violations": "הפרות"
+    }
+}

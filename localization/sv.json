@@ -1,0 +1,18 @@
+{
+    "common": {
+        "assessmentDate": "Bedömningsdatum",
+        "assessments": "Bedömningar",
+        "authority": "Myndighet",
+        "compliance": "Efterlevnad",
+        "detectedDate": "Upptäcktsdatum",
+        "effectiveDate": "Ikraftträdandedatum",
+        "expiryDate": "Utgångsdatum",
+        "findings": "Iakttagelser",
+        "requirement": "Krav",
+        "requirements": "Krav",
+        "reviewIntervalDays": "Granskningsintervall i dagar",
+        "severity": "Allvarlighetsgrad",
+        "subject": "Ämne",
+        "violations": "Överträdelser"
+    }
+}
