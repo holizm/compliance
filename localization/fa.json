@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "تاریخ ارزیابی",
         "assessments": "ارزیابی‌ها",
-        "authority": "مرجع",
         "compliance": "انطباق",
-        "detectedDate": "تاریخ شناسایی",
-        "effectiveDate": "تاریخ اجرا",
-        "expiryDate": "تاریخ انقضا",
-        "findings": "یافته‌ها",
         "requirement": "الزام",
         "requirements": "الزامات",
-        "reviewIntervalDays": "فاصله بازبینی به روز",
-        "severity": "شدت",
-        "subject": "موضوع",
         "violations": "تخلفات"
     }
 }

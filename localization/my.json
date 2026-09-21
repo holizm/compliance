@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "အကဲဖြတ်သည့်ရက်",
         "assessments": "အကဲဖြတ်မှုများ",
-        "authority": "အာဏာပိုင်အဖွဲ့",
         "compliance": "လိုက်နာမှု",
-        "detectedDate": "တွေ့ရှိသည့်ရက်",
-        "effectiveDate": "အာဏာသက်ရောက်သည့်ရက်",
-        "expiryDate": "သက်တမ်းကုန်ဆုံးရက်",
-        "findings": "တွေ့ရှိချက်များ",
         "requirement": "လိုအပ်ချက်",
         "requirements": "လိုအပ်ချက်များ",
-        "reviewIntervalDays": "ပြန်လည်သုံးသပ်သည့် ကြားကာလ ရက်ဖြင့်",
-        "severity": "ပြင်းထန်မှု",
-        "subject": "အကြောင်းအရာ",
         "violations": "ချိုးဖောက်မှုများ"
     }
 }

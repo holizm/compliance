@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "የግምገማ ቀን",
         "assessments": "ግምገማዎች",
-        "authority": "ባለሥልጣን",
         "compliance": "ተገዢነት",
-        "detectedDate": "የተገኘበት ቀን",
-        "effectiveDate": "የሚፀናበት ቀን",
-        "expiryDate": "የሚያበቃበት ቀን",
-        "findings": "ግኝቶች",
         "requirement": "መስፈርት",
         "requirements": "መስፈርቶች",
-        "reviewIntervalDays": "የግምገማ ክፍተት በቀናት",
-        "severity": "ክብደት",
-        "subject": "ርዕሰ ጉዳይ",
         "violations": "ጥሰቶች"
     }
 }

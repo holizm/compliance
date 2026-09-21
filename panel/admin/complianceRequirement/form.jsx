@@ -15,7 +15,7 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='complianceAuthority'
+        placeholder='coreAuthority'
         property='authority'
     />
     <Text
@@ -24,15 +24,15 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='complianceEffectiveDate'
+        placeholder='coreEffectiveDate'
         property='effectiveDate'
     />
     <DateTime
-        placeholder='complianceExpiryDate'
+        placeholder='coreExpiryDate'
         property='expiryDate'
     />
     <Numeric
-        placeholder='complianceReviewIntervalDays'
+        placeholder='coreReviewIntervalDays'
         property='reviewIntervalDays'
     />
     <LongText

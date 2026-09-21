@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "평가일",
         "assessments": "평가",
-        "authority": "관할 기관",
         "compliance": "규정 준수",
-        "detectedDate": "감지일",
-        "effectiveDate": "발효일",
-        "expiryDate": "만료일",
-        "findings": "발견 사항",
         "requirement": "요구 사항",
         "requirements": "요구 사항",
-        "reviewIntervalDays": "검토 주기(일)",
-        "severity": "심각도",
-        "subject": "대상",
         "violations": "위반"
     }
 }

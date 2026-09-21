@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Vurderingsdato",
         "assessments": "Vurderinger",
-        "authority": "Myndighet",
         "compliance": "Etterlevelse",
-        "detectedDate": "Oppdagelsesdato",
-        "effectiveDate": "Ikrafttredelsesdato",
-        "expiryDate": "Utløpsdato",
-        "findings": "Funn",
         "requirement": "Krav",
         "requirements": "Krav",
-        "reviewIntervalDays": "Gjennomgangsintervall i dager",
-        "severity": "Alvorlighetsgrad",
-        "subject": "Emne",
         "violations": "Brudd"
     }
 }

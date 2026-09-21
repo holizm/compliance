@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "വിലയിരുത്തൽ തീയതി",
         "assessments": "വിലയിരുത്തലുകൾ",
-        "authority": "അധികാരി",
         "compliance": "അനുസരണം",
-        "detectedDate": "കണ്ടെത്തിയ തീയതി",
-        "effectiveDate": "പ്രാബല്യ തീയതി",
-        "expiryDate": "കാലഹരണ തീയതി",
-        "findings": "കണ്ടെത്തലുകൾ",
         "requirement": "ആവശ്യകത",
         "requirements": "ആവശ്യകതകൾ",
-        "reviewIntervalDays": "അവലോകന ഇടവേള ദിവസങ്ങളിൽ",
-        "severity": "തീവ്രത",
-        "subject": "വിഷയം",
         "violations": "ലംഘനങ്ങൾ"
     }
 }

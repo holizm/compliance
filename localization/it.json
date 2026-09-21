@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Data di valutazione",
         "assessments": "Valutazioni",
-        "authority": "Autorità",
         "compliance": "Conformità",
-        "detectedDate": "Data di rilevamento",
-        "effectiveDate": "Data di entrata in vigore",
-        "expiryDate": "Data di scadenza",
-        "findings": "Rilievi",
         "requirement": "Requisito",
         "requirements": "Requisiti",
-        "reviewIntervalDays": "Intervallo di revisione in giorni",
-        "severity": "Gravità",
-        "subject": "Oggetto",
         "violations": "Violazioni"
     }
 }

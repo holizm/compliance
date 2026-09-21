@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "মূল্যায়নের তারিখ",
         "assessments": "মূল্যায়নসমূহ",
-        "authority": "কর্তৃপক্ষ",
         "compliance": "পরিপালন",
-        "detectedDate": "শনাক্তকরণের তারিখ",
-        "effectiveDate": "কার্যকর তারিখ",
-        "expiryDate": "মেয়াদ শেষের তারিখ",
-        "findings": "পর্যবেক্ষণসমূহ",
         "requirement": "প্রয়োজনীয়তা",
         "requirements": "প্রয়োজনীয়তাসমূহ",
-        "reviewIntervalDays": "পর্যালোচনার ব্যবধান দিনে",
-        "severity": "গুরুতরতার মাত্রা",
-        "subject": "বিষয়",
         "violations": "লঙ্ঘনসমূহ"
     }
 }

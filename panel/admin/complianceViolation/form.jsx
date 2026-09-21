@@ -18,12 +18,12 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='complianceSubject'
+        placeholder='coreSubject'
         property='subject'
         required
     />
     <DateTime
-        placeholder='complianceDetectedDate'
+        placeholder='coreDetectedDate'
         property='detectedDate'
         required
     />
@@ -34,7 +34,7 @@ const inputs = <>
             'high',
             'critical',
         ]}
-        placeholder='complianceSeverity'
+        placeholder='coreSeverity'
         property='complianceSeverity'
         required
     />

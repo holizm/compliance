@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Assessment date",
         "assessments": "Assessments",
-        "authority": "Authority",
         "compliance": "Compliance",
-        "detectedDate": "Detected date",
-        "effectiveDate": "Effective date",
-        "expiryDate": "Expiry date",
-        "findings": "Findings",
         "requirement": "Requirement",
         "requirements": "Requirements",
-        "reviewIntervalDays": "Review interval in days",
-        "severity": "Severity",
-        "subject": "Subject",
         "violations": "Violations"
     }
 }

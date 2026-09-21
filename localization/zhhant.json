@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "評估日期",
         "assessments": "評估",
-        "authority": "主管機關",
         "compliance": "合規",
-        "detectedDate": "發現日期",
-        "effectiveDate": "生效日期",
-        "expiryDate": "到期日期",
-        "findings": "發現事項",
         "requirement": "要求",
         "requirements": "要求",
-        "reviewIntervalDays": "複審間隔（天）",
-        "severity": "嚴重程度",
-        "subject": "對象",
         "violations": "違規事項"
     }
 }

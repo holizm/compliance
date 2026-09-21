@@ -13,12 +13,12 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='complianceSubject'
+        placeholder='coreSubject'
         property='subject'
         required
     />
     <DateTime
-        placeholder='complianceAssessmentDate'
+        placeholder='coreAssessmentDate'
         property='assessmentDate'
         required
     />
@@ -35,7 +35,7 @@ const inputs = <>
         required
     />
     <LongText
-        placeholder='complianceFindings'
+        placeholder='coreFindings'
         property='findings'
     />
 </>

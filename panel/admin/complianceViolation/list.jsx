@@ -8,8 +8,8 @@ import Form from './form'
 const headers = <>
     <th start>complianceNumber</th>
     <th>complianceRequirement</th>
-    <th>complianceDetectedDate</th>
-    <th>complianceSeverity</th>
+    <th>coreDetectedDate</th>
+    <th>coreSeverity</th>
 </>
 
 const row = item => <>

@@ -6,8 +6,8 @@ import Form from './form'
 
 const headers = <>
     <th start>complianceRequirement</th>
-    <th>complianceSubject</th>
-    <th>complianceAssessmentDate</th>
+    <th>coreSubject</th>
+    <th>coreAssessmentDate</th>
     <th>stateMachinesState</th>
 </>
 

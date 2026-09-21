@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Értékelés dátuma",
         "assessments": "Értékelések",
-        "authority": "Hatóság",
         "compliance": "Megfelelőség",
-        "detectedDate": "Észlelés dátuma",
-        "effectiveDate": "Hatálybalépés dátuma",
-        "expiryDate": "Lejárat dátuma",
-        "findings": "Megállapítások",
         "requirement": "Követelmény",
         "requirements": "Követelmények",
-        "reviewIntervalDays": "Felülvizsgálati időköz napokban",
-        "severity": "Súlyosság",
-        "subject": "Tárgy",
         "violations": "Szabálysértések"
     }
 }

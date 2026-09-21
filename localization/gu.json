@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "મૂલ્યાંકન તારીખ",
         "assessments": "મૂલ્યાંકનો",
-        "authority": "સત્તાધિકારી",
         "compliance": "અનુપાલન",
-        "detectedDate": "શોધાયાની તારીખ",
-        "effectiveDate": "અમલની તારીખ",
-        "expiryDate": "સમાપ્તિ તારીખ",
-        "findings": "તારણો",
         "requirement": "જરૂરિયાત",
         "requirements": "જરૂરિયાતો",
-        "reviewIntervalDays": "સમીક્ષા અંતરાલ દિવસોમાં",
-        "severity": "ગંભીરતા",
-        "subject": "વિષય",
         "violations": "ઉલ્લંઘનો"
     }
 }

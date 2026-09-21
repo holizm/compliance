@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Tarikh penilaian",
         "assessments": "Penilaian",
-        "authority": "Pihak berkuasa",
         "compliance": "Pematuhan",
-        "detectedDate": "Tarikh dikesan",
-        "effectiveDate": "Tarikh berkuat kuasa",
-        "expiryDate": "Tarikh luput",
-        "findings": "Penemuan",
         "requirement": "Keperluan",
         "requirements": "Keperluan",
-        "reviewIntervalDays": "Selang semakan dalam hari",
-        "severity": "Keterukan",
-        "subject": "Subjek",
         "violations": "Pelanggaran"
     }
 }

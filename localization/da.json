@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Vurderingsdato",
         "assessments": "Vurderinger",
-        "authority": "Myndighed",
         "compliance": "Overholdelse",
-        "detectedDate": "Registreringsdato",
-        "effectiveDate": "Ikrafttrædelsesdato",
-        "expiryDate": "Udløbsdato",
-        "findings": "Resultater",
         "requirement": "Krav",
         "requirements": "Krav",
-        "reviewIntervalDays": "Gennemgangsinterval i dage",
-        "severity": "Alvorlighed",
-        "subject": "Emne",
         "violations": "Overtrædelser"
     }
 }

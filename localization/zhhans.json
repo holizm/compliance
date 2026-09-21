@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "评估日期",
         "assessments": "评估",
-        "authority": "主管机构",
         "compliance": "合规",
-        "detectedDate": "发现日期",
-        "effectiveDate": "生效日期",
-        "expiryDate": "到期日期",
-        "findings": "发现事项",
         "requirement": "要求",
         "requirements": "要求",
-        "reviewIntervalDays": "复审间隔（天）",
-        "severity": "严重程度",
-        "subject": "对象",
         "violations": "违规事项"
     }
 }

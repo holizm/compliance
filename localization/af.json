@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Assesseringsdatum",
         "assessments": "Assesserings",
-        "authority": "Owerheid",
         "compliance": "Nakoming",
-        "detectedDate": "Opsporingsdatum",
-        "effectiveDate": "Ingangsdatum",
-        "expiryDate": "Vervaldatum",
-        "findings": "Bevindings",
         "requirement": "Vereiste",
         "requirements": "Vereistes",
-        "reviewIntervalDays": "Hersieningsinterval in dae",
-        "severity": "Erns",
-        "subject": "Onderwerp",
         "violations": "Oortredings"
     }
 }

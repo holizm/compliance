@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Data evaluării",
         "assessments": "Evaluări",
-        "authority": "Autoritate",
         "compliance": "Conformitate",
-        "detectedDate": "Data detectării",
-        "effectiveDate": "Data intrării în vigoare",
-        "expiryDate": "Data expirării",
-        "findings": "Constatări",
         "requirement": "Cerință",
         "requirements": "Cerințe",
-        "reviewIntervalDays": "Interval de revizuire în zile",
-        "severity": "Gravitate",
-        "subject": "Subiect",
         "violations": "Încălcări"
     }
 }

@@ -1,18 +1,9 @@
 {
     "common": {
-        "assessmentDate": "Data oceny",
         "assessments": "Oceny",
-        "authority": "Organ właściwy",
         "compliance": "Zgodność",
-        "detectedDate": "Data wykrycia",
-        "effectiveDate": "Data wejścia w życie",
-        "expiryDate": "Data wygaśnięcia",
-        "findings": "Ustalenia",
         "requirement": "Wymóg",
         "requirements": "Wymogi",
-        "reviewIntervalDays": "Interwał przeglądu w dniach",
-        "severity": "Istotność",
-        "subject": "Przedmiot",
         "violations": "Naruszenia"
     }
 }
