@@ -1,6 +1,6 @@
 export default <>
-    <th start>complianceRequirement</th>
-    <th>coreSubject</th>
-    <th>coreAssessmentDate</th>
-    <th>stateMachinesState</th>
+    <th start>requirement</th>
+    <th>subject</th>
+    <th>assessmentDate</th>
+    <th>state</th>
 </>

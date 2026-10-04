@@ -8,17 +8,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='complianceRequirement'
+        placeholder='requirement'
         property='complianceRequirement'
         required
     />
     <Text
-        placeholder='coreSubject'
+        placeholder='subject'
         property='subject'
         required
     />
     <DateTime
-        placeholder='coreAssessmentDate'
+        placeholder='assessmentDate'
         property='assessmentDate'
         required
     />
@@ -30,12 +30,12 @@ const inputs = <>
             'expired',
             'waived',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='complianceStatus'
         required
     />
     <LongText
-        placeholder='coreFindings'
+        placeholder='findings'
         property='findings'
     />
 </>

@@ -1,6 +1,6 @@
 export default <>
-    <th start>complianceNumber</th>
-    <th>complianceRequirement</th>
-    <th>coreDetectedDate</th>
-    <th>coreSeverity</th>
+    <th start>number</th>
+    <th>requirement</th>
+    <th>detectedDate</th>
+    <th>severity</th>
 </>

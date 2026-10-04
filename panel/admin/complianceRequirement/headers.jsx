@@ -1,6 +1,6 @@
 export default <>
-    <th start>complianceRequirement</th>
-    <th>complianceCode</th>
-    <th>coreAuthority</th>
-    <th>complianceScope</th>
+    <th start>requirement</th>
+    <th>code</th>
+    <th>authority</th>
+    <th>scope</th>
 </>

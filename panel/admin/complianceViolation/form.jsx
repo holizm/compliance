@@ -8,22 +8,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='complianceNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='complianceRequirement'
+        placeholder='requirement'
         property='complianceRequirement'
         required
     />
     <Text
-        placeholder='coreSubject'
+        placeholder='subject'
         property='subject'
         required
     />
     <DateTime
-        placeholder='coreDetectedDate'
+        placeholder='detectedDate'
         property='detectedDate'
         required
     />
@@ -34,12 +34,12 @@ const inputs = <>
             'high',
             'critical',
         ]}
-        placeholder='coreSeverity'
+        placeholder='severity'
         property='complianceSeverity'
         required
     />
     <LongText
-        placeholder='complianceDescription'
+        placeholder='description'
         property='description'
         required
     />

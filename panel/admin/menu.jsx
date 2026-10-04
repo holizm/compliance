@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/compliance/complianceRequirement/list',
-                title: 'complianceRequirements',
+                title: 'requirements',
             },
             {
                 path: '/compliance/complianceAssessment/list',
-                title: 'complianceAssessments',
+                title: 'assessments',
             },
             {
                 path: '/compliance/complianceViolation/list',
-                title: 'complianceViolations',
+                title: 'violations',
             },
         ],
         icon: 'verifiedUser',
         path: '/compliance',
-        title: 'complianceCompliance',
+        title: 'compliance',
     },
 ]

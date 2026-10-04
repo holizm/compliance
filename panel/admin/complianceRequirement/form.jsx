@@ -10,33 +10,33 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='complianceCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='coreAuthority'
+        placeholder='authority'
         property='authority'
     />
     <Text
-        placeholder='complianceScope'
+        placeholder='scope'
         property='scope'
         required
     />
     <DateTime
-        placeholder='coreEffectiveDate'
+        placeholder='effectiveDate'
         property='effectiveDate'
     />
     <DateTime
-        placeholder='coreExpiryDate'
+        placeholder='expiryDate'
         property='expiryDate'
     />
     <Numeric
-        placeholder='coreReviewIntervalDays'
+        placeholder='reviewIntervalDays'
         property='reviewIntervalDays'
     />
     <LongText
-        placeholder='complianceDescription'
+        placeholder='description'
         property='description'
     />
 </>

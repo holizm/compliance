@@ -33,6 +33,8 @@ complianceAssessment
     complianceStatus
     nextReviewDate optional
     findings optional
+    uses
+        stateMachines
 complianceEvidence
     complianceAssessment
     evidence
