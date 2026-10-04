@@ -10,35 +10,18 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
+    <Text authority />
     <Text
-        placeholder='authority'
-        property='authority'
-    />
-    <Text
-        placeholder='scope'
-        property='scope'
         required
+        scope
     />
-    <DateTime
-        placeholder='effectiveDate'
-        property='effectiveDate'
-    />
-    <DateTime
-        placeholder='expiryDate'
-        property='expiryDate'
-    />
-    <Numeric
-        placeholder='reviewIntervalDays'
-        property='reviewIntervalDays'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <DateTime effectiveDate />
+    <DateTime expiryDate />
+    <Numeric reviewIntervalDays />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

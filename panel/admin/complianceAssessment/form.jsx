@@ -8,21 +8,20 @@ import {
 
 const inputs = <>
     <Text
+        complianceRequirement
         placeholder='requirement'
-        property='complianceRequirement'
         required
     />
     <Text
-        placeholder='subject'
-        property='subject'
         required
+        subject
     />
     <DateTime
-        placeholder='assessmentDate'
-        property='assessmentDate'
+        assessmentDate
         required
     />
     <Select
+        complianceStatus
         options={[
             'pending',
             'compliant',
@@ -31,13 +30,9 @@ const inputs = <>
             'waived',
         ]}
         placeholder='state'
-        property='complianceStatus'
         required
     />
-    <LongText
-        placeholder='findings'
-        property='findings'
-    />
+    <LongText findings />
 </>
 
 export default <DialogForm inputs={inputs} />

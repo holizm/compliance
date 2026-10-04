@@ -8,26 +8,24 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
+        complianceRequirement
         placeholder='requirement'
-        property='complianceRequirement'
         required
     />
     <Text
-        placeholder='subject'
-        property='subject'
         required
+        subject
     />
     <DateTime
-        placeholder='detectedDate'
-        property='detectedDate'
+        detectedDate
         required
     />
     <Select
+        complianceSeverity
         options={[
             'low',
             'medium',
@@ -35,12 +33,10 @@ const inputs = <>
             'critical',
         ]}
         placeholder='severity'
-        property='complianceSeverity'
         required
     />
     <LongText
-        placeholder='description'
-        property='description'
+        description
         required
     />
 </>
