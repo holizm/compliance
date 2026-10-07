@@ -25,7 +25,7 @@ complianceRequirement
     reviewIntervalDays integer optional
     description optional
     unique code
-complianceAssessment
+complianceAssessment searchable
     complianceRequirement
     subject
     assessmentDate
